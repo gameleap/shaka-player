@@ -85,7 +85,7 @@
 +../../lib/util/networking.js
 +../../lib/util/object_utils.js
 +../../lib/util/operation_manager.js
-+../../lib/util/periods.js
++../../lib/util/periods-custom.js
 +../../lib/util/platform.js
 +../../lib/util/player_configuration.js
 +../../lib/util/pssh.js
